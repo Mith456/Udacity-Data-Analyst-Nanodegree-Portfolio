@@ -9,14 +9,23 @@ This program enables you to master the skills you need to establish a successful
 ## Courses in Data Analyst Nanodegree
 
 Intro to Inferential Statistics
+
 Intro to Descriptive Statistics
+
 Intro to Data Analysis
+
 Data Wrangling
+
 SQL for Data Analysis	
+
 MongoDB for Data Analysis
+
 Exploratory Data Analysis with R
+
 Intro to Machine Learning
+
 Data Visualization and Tableau
+
 A/B Testing
 
 ## Softwares and major libraries used during the entire program
