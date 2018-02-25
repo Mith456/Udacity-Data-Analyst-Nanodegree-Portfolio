@@ -20,3 +20,13 @@ and for a particular carrier, which airports cause most delays and also what typ
 3)What are the carriers that causes most delays when all airports are considered?
 
 4)What are the top10 airports and carriers contributing for most delays and their relationship?
+
+## Table of Contents
+
+1)airline_delay_causes.csv - Original dataset for airlines performance
+
+2)Project_initial_version.twbx - Inital tableau story
+
+3) Project_ version updated.twbx - Final updated version of my story considering feedbacks.
+
+4) Write_up_tableau.pdf - Document explaining my summary and my design build-up of the story.
