@@ -22,13 +22,22 @@ A/B Testing
 ## Softwares and major libraries used during the entire program
 
 Python
+
 pandas
+
 Numpy
+
 scikit-learn
+
 Matplotlib
+
 JSON
+
 R-Studio
+
 R- Markdown
+
 Tableau
+
 SQL
 
