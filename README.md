@@ -12,7 +12,7 @@ Intro to Inferential Statistics
 Intro to Descriptive Statistics
 Intro to Data Analysis
 Data Wrangling
-SQL for Data Analysis
+SQL for Data Analysis	
 MongoDB for Data Analysis
 Exploratory Data Analysis with R
 Intro to Machine Learning
